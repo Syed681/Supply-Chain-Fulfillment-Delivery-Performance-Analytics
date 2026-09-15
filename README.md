@@ -367,7 +367,6 @@ Supply_Chain_Fulfillment_Analytics/
 │   └── business_insights.md
 │
 ├── README.md
-└── .gitignore
 ```
 
 
@@ -392,5 +391,3 @@ Supply_Chain_Fulfillment_Analytics/
 - Supply Chain Analytics
 - Business Analysis
 - Business Interpretation
-```
-
