@@ -348,8 +348,7 @@ Supply_Chain_Fulfillment_Analytics/
 │
 ├── 02_python_cleaning/
 │   ├── 01_exploration.py
-│   ├── 02_cleaning.py
-│   └── README.md
+│   └── 02_cleaning.py
 │
 ├── 03_sql/
 │   ├── 01_database.sql
