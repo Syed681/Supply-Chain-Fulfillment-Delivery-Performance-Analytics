@@ -1,5 +1,5 @@
 ```markdown
-# Supply Chain Fulfillment & Delivery Performance Analytics
+### Supply Chain Fulfillment & Delivery Performance Analytics
 
 ## About the Project
 
@@ -123,10 +123,8 @@ I created two fields to support the fulfillment analysis.
 
 Shipping variance compares the actual shipping duration with the scheduled shipping duration.
 
-```text
 Shipping Variance =
 Actual Shipping Days - Scheduled Shipping Days
-```
 
 A positive value means the actual shipping duration was higher than the scheduled duration.
 
