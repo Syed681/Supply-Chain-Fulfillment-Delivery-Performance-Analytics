@@ -137,7 +137,6 @@ I created a simple binary flag:
 SLA Breach Flag =
 1 → Shipping Variance > 0
 0 → Shipping Variance <= 0
-```
 
 This became the main calculated indicator used to analyze fulfillment performance.
 
@@ -367,7 +366,7 @@ Supply_Chain_Fulfillment_Analytics/
 │
 ├── README.md
 └── .gitignore
-```
+
 
 
 # Skills Demonstrated
