@@ -346,15 +346,14 @@ Supply_Chain_Fulfillment_Analytics/
 ├── 01_raw_data/
 │   └── README.md
 │
-├── 02_python/
+├── 02_python_cleaning/
 │   ├── 01_exploration.py
 │   ├── 02_cleaning.py
 │   └── README.md
 │
 ├── 03_sql/
 │   ├── 01_database.sql
-│   ├── 02_analysis.sql
-│   └── 03_results_and_insights.md
+│   └── 02_analysis.sql
 │
 ├── 04_powerbi/
 │   ├── Supply_Chain_Analytics.pbix
