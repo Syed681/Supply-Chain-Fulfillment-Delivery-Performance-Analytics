@@ -1,4 +1,4 @@
-```markdown
+```
 ### Supply Chain Fulfillment & Delivery Performance Analytics
 
 ## About the Project
@@ -212,8 +212,8 @@ This page focuses on product and commercial performance.
 
 It includes:
 
-- Top 10 Products by Sales
-- Top 10 Products by Quantity
+- Top  Products by Sales
+- Top  Products by Quantity
 - Sales by Customer Segment
 - Top Products by SLA-Breached Sales
 
