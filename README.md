@@ -1,5 +1,5 @@
 ```
-### Supply Chain Fulfillment & Delivery Performance Analytics
+# Supply Chain Fulfillment & Delivery Performance Analytics
 
 ## About the Project
 
@@ -123,8 +123,10 @@ I created two fields to support the fulfillment analysis.
 
 Shipping variance compares the actual shipping duration with the scheduled shipping duration.
 
+```text
 Shipping Variance =
 Actual Shipping Days - Scheduled Shipping Days
+```
 
 A positive value means the actual shipping duration was higher than the scheduled duration.
 
@@ -137,6 +139,7 @@ I created a simple binary flag:
 SLA Breach Flag =
 1 → Shipping Variance > 0
 0 → Shipping Variance <= 0
+```
 
 This became the main calculated indicator used to analyze fulfillment performance.
 
@@ -211,8 +214,8 @@ This page focuses on product and commercial performance.
 
 It includes:
 
-- Top  Products by Sales
-- Top  Products by Quantity
+- Top 10 Products by Sales
+- Top 10 Products by Quantity
 - Sales by Customer Segment
 - Top Products by SLA-Breached Sales
 
@@ -366,7 +369,7 @@ Supply_Chain_Fulfillment_Analytics/
 │
 ├── README.md
 └── .gitignore
-
+```
 
 
 # Skills Demonstrated
