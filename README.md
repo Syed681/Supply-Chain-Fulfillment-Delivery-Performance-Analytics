@@ -1,4 +1,4 @@
-# Supply Chain Fulfillment & Delivery Performance Analytics
+# Supply Chain Fulfillment Analytics
 
 ## About the Project
 
